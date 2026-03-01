@@ -47,12 +47,10 @@ A multi-functional, password-protected automation system using **Arduino**, desi
 
 ## Images / Demo
 - **Simulation View**  
-![Simulation](images/simulation.jpn)
+![Simulation](images/simulation.jpg)
 
 - **Implementation View**  
-![Implementation](images/implementation.jpn)  
+![Implementation](images/implementation.jpg)  
 
-- **Real Circuit**  
-![Real Project](images/real_project.jpg)  
 
 > Replace the `images/...` paths with your actual image files in the repository.
