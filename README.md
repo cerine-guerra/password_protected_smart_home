@@ -47,7 +47,10 @@ A multi-functional, password-protected automation system using **Arduino**, desi
 
 ## Images / Demo
 - **Simulation View**  
-![Simulation](images/simulation.png)  
+![Simulation](images/simulation.jpn)
+
+- **Implementation View**  
+![Implementation](images/implementation.jpn)  
 
 - **Real Circuit**  
 ![Real Project](images/real_project.jpg)  
